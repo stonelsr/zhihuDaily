@@ -1,4 +1,7 @@
 # zhihudaily
+ 知乎日报
+ 作者 stone
+ 一个热爱生活的前端爱好者
 
 > A Vue.js project
 
